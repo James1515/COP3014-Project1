@@ -1,2 +1,3 @@
-# COP3014-Project1
-Project 1 - COP3014
+# COP3014-Projects
+
+A directory of files illustrating the projects I have done in COP3014 - Programming I.
